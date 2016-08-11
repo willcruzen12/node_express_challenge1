@@ -1,0 +1,12 @@
+.cat {
+  text-align: center;
+  display: inline-block;
+  width: 250px;
+  margin: 10px;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.cat h2 {
+  color: indigo;
+}
